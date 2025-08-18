@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1em"
+   width="1em"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="medienanalyse.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.815"
+     inkscape:cx="499.72452"
+     inkscape:cy="500"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M917.86 661.63H82.14c-36.92 0-66.84-30.48-66.84-68.09V114.62c0-37.6 29.93-68.09 66.84-68.09h835.73c36.92 0 66.84 30.48 66.84 68.09v478.92c0 37.61-29.93 68.09-66.85 68.09z"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 26.519; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path1" />
+  <path
+     d="m574.17 332.37-133.6-78.57c-9.83-5.78-22.11 1.44-22.11 13v157.14c0 11.56 12.28 18.78 22.11 13l133.6-78.57c9.83-5.78 9.83-20.22 0-26z"
+     style="fill: rgb(102, 102, 102);"
+     id="path2" />
+  <path
+     d="M941.08 951.27H58.92c-22.99 0-41.63-18.98-41.63-42.4v-109.9c0-23.42 18.64-42.4 41.63-42.4h882.15c22.99 0 41.63 18.98 41.63 42.4v109.9c0 23.42-18.63 42.4-41.62 42.4z"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 26.519; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path3" />
+  <path
+     d="M149.09 755.69v193.46m225.65-183.72v193.46m96.28-193.46v193.46m205.59-193.46v193.46m193.56-193.46v193.46"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 26.519; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path4" />
+</svg>

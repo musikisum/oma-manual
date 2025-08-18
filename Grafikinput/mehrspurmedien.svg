@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1em"
+   height="1em"
+   viewBox="0 0 1000 1000"
+   role="img"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="mehrspurmedien.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.815"
+     inkscape:cx="499.72452"
+     inkscape:cy="500"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M935.88 976.09H259.31c-26.06 0-47.19-21.17-47.19-47.29V71.2c0-26.11 21.13-47.29 47.19-47.29h676.57c26.06 0 47.19 21.17 47.19 47.29v857.6c-.01 26.12-21.13 47.29-47.19 47.29z"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 25.885; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path1" />
+  <path
+     d="M595.41 600.04v58.79m0-506.93v259.88m20.3 147.16H575.1c-10.7 0-19.37-8.69-19.37-19.41v-69.24c0-10.72 8.67-19.41 19.37-19.41h40.61c10.7 0 19.37 8.69 19.37 19.41v69.24c.01 10.72-8.67 19.41-19.37 19.41zM370.56 442.32v216.51m0-506.93v102.16m20.3 147.15h-40.61c-10.7 0-19.37-8.69-19.37-19.41v-69.24c0-10.72 8.67-19.41 19.37-19.41h40.61c10.7 0 19.37 8.69 19.37 19.41v69.24c0 10.72-8.67 19.41-19.37 19.41zm429.4 108.7v148.92m0-506.93v169.75m20.3 147.16h-40.61c-10.7 0-19.37-8.69-19.37-19.41v-69.24c0-10.72 8.67-19.41 19.37-19.41h40.61c10.7 0 19.37 8.69 19.37 19.41v69.24c.01 10.72-8.67 19.41-19.37 19.41z"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path2" />
+  <ellipse
+     cx="372.79"
+     cy="801.16"
+     rx="61.66"
+     ry="61.79"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="ellipse2" />
+  <path
+     d="M372.79 739.37v61.79"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path3" />
+  <ellipse
+     cx="822.39"
+     cy="801.16"
+     rx="61.66"
+     ry="61.79"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="ellipse3" />
+  <path
+     d="M884.05 801.16h-61.66"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path4" />
+  <ellipse
+     cx="599.95"
+     cy="801.16"
+     rx="61.66"
+     ry="61.79"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="ellipse4" />
+  <path
+     d="m642.58 756.52-42.63 44.64"
+     style="fill: rgb(242, 242, 242); stroke: rgb(102, 102, 102); stroke-width: 22.5087; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"
+     id="path5" />
+  <ellipse
+     cx="152.48"
+     cy="182.29"
+     rx="148.49"
+     ry="148.8"
+     style="fill: rgb(102, 102, 102);"
+     id="ellipse5" />
+  <path
+     d="m221.24 171.21-95.7-55.37c-7.82-4.52-17.58 1.13-17.58 10.17v110.74c0 9.04 9.77 14.7 17.58 10.17l95.7-55.37c7.82-4.52 7.82-15.82 0-20.34z"
+     style="fill: rgb(242, 242, 242);"
+     id="path6" />
+</svg>
