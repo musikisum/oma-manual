@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="993.008"
+   height="536.30798"
+   viewBox="0 0 993.008 536.30798"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="piano.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.815"
+     inkscape:cx="496.41873"
+     inkscape:cy="268.04408"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="M 945.834,524.444 H 47.174 c -19.5,0 -35.31,-15.81 -35.31,-35.31 V 47.174 c 0,-19.5 15.81,-35.31 35.31,-35.31 h 898.66 c 19.5,0 35.31,15.81 35.31,35.31 v 441.97 c 0,19.49 -15.81,35.3 -35.31,35.3 z"
+     style="fill:#f2f2f2;stroke:#666666;stroke-width:23.728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     id="path1" />
+  <path
+     d="m 246.474,340.084 h -83.51 c -12.36,0 -22.38,-10.02 -22.38,-22.38 V 14.194 h 128.28 v 303.51 c 0,12.36 -10.03,22.38 -22.39,22.38 z m 193.94,0 h -83.51 c -12.36,0 -22.38,-10.02 -22.38,-22.38 V 14.194 h 128.28 v 303.51 c -0.01,12.36 -10.03,22.38 -22.39,22.38 z m 387.36,0 h -83.51 c -12.36,0 -22.38,-10.02 -22.38,-22.38 V 14.194 h 128.28 v 303.51 c -0.01,12.36 -10.03,22.38 -22.39,22.38 z"
+     style="fill:#666666"
+     id="path2" />
+  <path
+     d="m 204.704,10.844 v 523.51 m 193.84,-523.51 v 523.51 m 193.84,-523.51 v 523.51 m 193.85,-523.51 v 523.51"
+     style="fill:none;stroke:#666666;stroke-width:23.728;stroke-linejoin:round;stroke-miterlimit:10"
+     id="path3" />
+</svg>
