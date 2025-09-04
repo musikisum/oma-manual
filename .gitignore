@@ -6,5 +6,7 @@ _book
 *.mobi
 *.pdf
 
+/Redaktion
+
 # adobe files
 *.ai
